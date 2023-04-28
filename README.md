@@ -11,3 +11,5 @@ The dataset used in this project for Flower Recognition can be found at [https:/
 Instructions:
 
 To run this project on your own machine, you can clone this repository and open the project.ipynb file in Jupyter Notebook or Google Colab. Make sure that you have the necessary dependencies installed before running the code.
+
+ChatGPT is used during debugging process.
